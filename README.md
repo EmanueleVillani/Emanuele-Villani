@@ -29,8 +29,8 @@ I don't just write code; I engineer experiences. With a background forged in rea
 ---
 
 ## 📫 Connect with me
-- **Portfolio:** [emanuelevillani.itch.io](https://emanuelevillani.itch.io)
-- **LinkedIn:** [Your LinkedIn Profile Link Here]
+- **Portfolio:** https://emanuelevillani.itch.io/
+- **LinkedIn:** https://www.linkedin.com/in/emanuele-villani-746a33272/
 - **Email:** manu.lebon@hotmail.it
 
 *"My goal is clean code, scalable systems, and an exceptional player experience."*# Emanuele-Villani
